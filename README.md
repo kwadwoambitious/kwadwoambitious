@@ -1,5 +1,5 @@
 ### Hi there 👋
-<h1>Ebenezer Antwi</h1>
+<h1 style="color: #ff481d; text-align: center;">Hi there 👋, I'm Ebenezer Antwi</h1>
 
 <!--
 **kwadwoambitious/kwadwoambitious** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
