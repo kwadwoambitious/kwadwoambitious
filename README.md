@@ -1,4 +1,3 @@
-### Hi there 👋
 <h1 style="color: #ff481d; text-align: center;">Hi there 👋, I'm Ebenezer Antwi</h1>
 
 <!--
