@@ -6,8 +6,6 @@
 Here are some ideas to get you started:
 -->
 
-- 🔭 I'm currently 
-- 🌱 I’m tied up with Angular
-- 👯 I’m looking to collaborate on Front-end Works
-- 💬 Ask me about front-end questions
+- 🔭 I'm currently contributing to innovative projects using Angular
+- 👯 I’m looking to collaborate on Frontend projects
 - 📫 How to reach me: antwiebenezer784@gmail.com
